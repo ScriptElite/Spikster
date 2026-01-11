@@ -39,7 +39,10 @@ Install Spikster
 ```
 ssh ubuntu@<your server IP address>
 sudo -s
-wget -O - https://raw.githubusercontent.com/yolanmees/Spikster/master/go.sh | bash
+wget -O - https://raw.githubusercontent.com/ScriptElite/Spikster/master/go.sh | bash
+```
+```
+wget -O - https://raw.githubusercontent.com/ScriptElite/Spikster/master/go.sh | bash
 ```
 Remember to open ports: 22, 80 and 443!
 
