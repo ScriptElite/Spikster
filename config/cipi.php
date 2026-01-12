@@ -13,7 +13,7 @@
 
         // Custom Vars
         'name'              => env('CIPI_NAME', 'Spikster Control Panel'),
-        'website'           => env('CIPI_WEBSITE', 'https://github.com/yolanmees/Spikster'),
+        'website'           => env('CIPI_WEBSITE', 'https://github.com/ScriptElite/Spikster'),
         'activesetupcount'  => env('CIPI_ACTIVESETUPCOUNT', '/#'),
         'documentation'     => env('CIPI_DOCUMENTATION', 'https://spikster.com/'),
         'app'               => env('CIPI_APP', '/#'),
